@@ -1,0 +1,21 @@
+.BlockClick {
+  background-color: black;
+  color: rgb(255, 255, 255);
+  font-size: 70pt;
+  transition: 0.9s;
+}
+
+.TextTurn {
+  color: rgb(5, 189, 5);
+  font-weight: 400;
+}
+
+.TextNextTurn {
+  color: black;
+  font-weight: 400;
+}
+
+.TextLost {
+  color: rgb(217, 19, 19);
+  font-weight: 400;
+}
